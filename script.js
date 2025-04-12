@@ -4,7 +4,6 @@ const reasons = [
   "I love your kisses. (Obviously)",
   "I love your hugs.",
   "I love how we never run out of conversations.",
-  "You're beatiful (hehe).",
   "You make me feel cherished.",
   "I love how you make 'sagot' sakin even though you're not 18 yet. (sorry na, di ko alam english ng sagot)",
   "You bring happiness every day. (all the stuff we do, especially moviesss)",
@@ -22,6 +21,7 @@ const reasons = [
   "I admire your character, the traits that I fell in love with since we first met.",
   "You make me feel loved.",
   "Sex mwehehehehe.",
+  "I am in love with the fact that I am in love with you.",
   "I'm in love with the reality of building that future with you, step by step."
 ];
 
